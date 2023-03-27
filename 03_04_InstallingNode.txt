@@ -12,4 +12,4 @@ nvm install 5.1 (This will install version 5.1 of the node)
 
 nvm use 6(This will switch the node version to version 6)
 
-nvm list (This will list all the available versions on our system)
+nvm list (This will list all the available versions on our system).
